@@ -1,0 +1,784 @@
+{
+	"berlin": [
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 9.0,
+			"Pseudonamen": "Frau Martinez"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Frau Wormer"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Herr Kozlowski"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 17.0,
+			"Pseudonamen": "Herr Kirchberg"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 17.0,
+			"Pseudonamen": "Herr Richmond"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 2.0,
+			"Pseudonamen": "Herr van Well"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Herr Weege"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 2.0,
+			"Pseudonamen": "Frau Borg"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 25.0,
+			"Pseudonamen": "Frau Ahorn"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Frau Sch\u00e4fer"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Herr Nagel"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Frau Al-Iman"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 14.0,
+			"Pseudonamen": "Frau Sch\u00f6ffer"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 2.0,
+			"Min_Gesamtwartezeit": 3.0,
+			"Pseudonamen": "Frau Borg"
+		},
+		{
+			"Min_Sprechstunde": 12.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 16.0,
+			"Pseudonamen": "Herr van Well"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Herr Meier"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Herr Siegel"
+		},
+		{
+			"Min_Sprechstunde": 12.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 13.0,
+			"Pseudonamen": "Frau M\u00fcller"
+		},
+		{
+			"Min_Sprechstunde": 12.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 24.0,
+			"Pseudonamen": "Herr Dreyer"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 50.0,
+			"Pseudonamen": "Herr Meier"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 6.0,
+			"Pseudonamen": "Herr Garten"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 2.0,
+			"Min_Gesamtwartezeit": 3.0,
+			"Pseudonamen": "Herr Richmond"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Frau Kant"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Herr Ziegler"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 2.0,
+			"Pseudonamen": "Herr Seeger"
+		},
+		{
+			"Min_Sprechstunde": 6.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 12.0,
+			"Pseudonamen": "Herr Kozlowski"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 9.0,
+			"Pseudonamen": "Herr Siegel"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 13.0,
+			"Pseudonamen": "Herr K\u00fchne"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Frau Kant"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Frau Kienzle"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 18.0,
+			"Pseudonamen": "Frau Ellinghof"
+		}
+	],
+	"brandenburg": [
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 15.0,
+			"Pseudonamen": "Herr Weil"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 25.0,
+			"Pseudonamen": "Herr Seeger"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 10.0,
+			"Pseudonamen": "Herr Bleich"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 2.0,
+			"Min_Gesamtwartezeit": 6.0,
+			"Pseudonamen": "Frau Dietz"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Herr van Well"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 52.0,
+			"Pseudonamen": "Herr Ninh"
+		},
+		{
+			"Min_Sprechstunde": 15.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 15.0,
+			"Pseudonamen": "Frau Sch\u00f6ller"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 36.0,
+			"Min_Gesamtwartezeit": 38.0,
+			"Pseudonamen": "Herr Brost"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 14.0,
+			"Pseudonamen": "Herr Weege"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 50.0,
+			"Pseudonamen": "Herr Nagel"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 18.0,
+			"Pseudonamen": "Frau Dietz"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 14.0,
+			"Pseudonamen": "Herr Beck"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 51.0,
+			"Pseudonamen": "Frau Sch\u00f6ller"
+		},
+		{
+			"Min_Sprechstunde": 0.0,
+			"Min_Therapie": 3.0,
+			"Min_Gesamtwartezeit": 3.0,
+			"Pseudonamen": "Frau Borg"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 16.0,
+			"Pseudonamen": "Herr Breitbach"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 28.0,
+			"Pseudonamen": "Frau Diefenbach"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Herr Specht"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 28.0,
+			"Pseudonamen": "Frau Zimmer"
+		},
+		{
+			"Min_Sprechstunde": 6.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 6.0,
+			"Pseudonamen": "Herr Block"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 3.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Frau Sch\u00e4fer"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 2.0,
+			"Pseudonamen": "Frau Demirel"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 19.0,
+			"Pseudonamen": "Herr Weege"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Frau Sch\u00f6ffer"
+		}
+	],
+	"stadt": [
+		{
+			"Min_Sprechstunde": 0.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 1.0,
+			"Pseudonamen": "Herr Meier"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 6.0,
+			"Pseudonamen": "Frau Dietz"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 52.0,
+			"Pseudonamen": "Herr Denz"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 3.0,
+			"Min_Gesamtwartezeit": 4.0,
+			"Pseudonamen": "Frau Stolze"
+		},
+		{
+			"Min_Sprechstunde": 0.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 0.0,
+			"Pseudonamen": "Frau De La Croix"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 1.0,
+			"Pseudonamen": "Herr Kozlowski"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 25.0,
+			"Pseudonamen": "Frau Zimmer"
+		},
+		{
+			"Min_Sprechstunde": 12.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 20.0,
+			"Pseudonamen": "Herr Garten"
+		},
+		{
+			"Min_Sprechstunde": 6.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 14.0,
+			"Pseudonamen": "Herr Nakamori"
+		},
+		{
+			"Min_Sprechstunde": 0.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 0.0,
+			"Pseudonamen": "Herr Garten"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Herr Nakamori"
+		},
+		{
+			"Min_Sprechstunde": 24.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 72.0,
+			"Pseudonamen": "Herr Siegel"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 20.0,
+			"Min_Gesamtwartezeit": 24.0,
+			"Pseudonamen": "Frau Albrecht"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 2.0,
+			"Min_Gesamtwartezeit": 3.0,
+			"Pseudonamen": "Herr Nakamori"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 51.0,
+			"Pseudonamen": "Frau M\u00fcller"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 10.0,
+			"Min_Gesamtwartezeit": 12.0,
+			"Pseudonamen": "Herr K\u00fchne"
+		},
+		{
+			"Min_Sprechstunde": 12.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 12.0,
+			"Pseudonamen": "Frau Albrecht"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 28.0,
+			"Pseudonamen": "Frau Wormer"
+		},
+		{
+			"Min_Sprechstunde": 0.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 0.0,
+			"Pseudonamen": "Frau Wormer"
+		},
+		{
+			"Min_Sprechstunde": 6.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 6.0,
+			"Pseudonamen": "Herr Denz"
+		},
+		{
+			"Min_Sprechstunde": 9.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 13.0,
+			"Pseudonamen": "Herr Kornfeld"
+		},
+		{
+			"Min_Sprechstunde": 12.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 28.0,
+			"Pseudonamen": "Frau Ahorn"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 32.0,
+			"Min_Gesamtwartezeit": 35.0,
+			"Pseudonamen": "Frau Sch\u00f6ffer"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 13.0,
+			"Pseudonamen": "Herr Ricken"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 25.0,
+			"Pseudonamen": "Herr Garten"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 28.0,
+			"Pseudonamen": "Herr Kirchberg"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 50.0,
+			"Pseudonamen": "Frau Wimmer"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 19.0,
+			"Pseudonamen": "Herr van Well"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 25.0,
+			"Pseudonamen": "Herr Bohlen"
+		},
+		{
+			"Min_Sprechstunde": 12.0,
+			"Min_Therapie": 3.0,
+			"Min_Gesamtwartezeit": 15.0,
+			"Pseudonamen": "Frau Albrecht"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Herr Specht"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 3.0,
+			"Pseudonamen": "Herr Kirchberg"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 10.0,
+			"Pseudonamen": "Herr Ricken"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 10.0,
+			"Pseudonamen": "Frau Stolze"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 96.0,
+			"Min_Gesamtwartezeit": 100.0,
+			"Pseudonamen": "Herr Weege"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Herr Weil"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 9.0,
+			"Pseudonamen": "Frau De La Croix"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Frau Zimmer"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Herr Apfel"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 17.0,
+			"Pseudonamen": "Herr Apfel"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 17.0,
+			"Pseudonamen": "Frau Demirel"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 15.0,
+			"Pseudonamen": "Herr Dreyer"
+		},
+		{
+			"Min_Sprechstunde": 48.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 49.0,
+			"Pseudonamen": "Herr Weege"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 72.0,
+			"Min_Gesamtwartezeit": 73.0,
+			"Pseudonamen": "Frau Ellinghof"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 9.0,
+			"Pseudonamen": "Herr Kozlowski"
+		},
+		{
+			"Min_Sprechstunde": 10.0,
+			"Min_Therapie": 2.0,
+			"Min_Gesamtwartezeit": 12.0,
+			"Pseudonamen": "Herr Siegel"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 2.0,
+			"Pseudonamen": "Herr Apfel"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 8.0,
+			"Min_Gesamtwartezeit": 9.0,
+			"Pseudonamen": "Herr Weil"
+		}
+	],
+	"land": [
+		{
+			"Min_Sprechstunde": 24.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 48.0,
+			"Pseudonamen": "Herr Seeger"
+		},
+		{
+			"Min_Sprechstunde": 48.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 48.0,
+			"Pseudonamen": "Herr Nagel"
+		},
+		{
+			"Min_Sprechstunde": 6.0,
+			"Min_Therapie": 72.0,
+			"Min_Gesamtwartezeit": 78.0,
+			"Pseudonamen": "Herr Siegel"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 49.0,
+			"Pseudonamen": "Frau M\u00fcller"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 0.0,
+			"Min_Gesamtwartezeit": 3.0,
+			"Pseudonamen": "Frau Schwiesau"
+		},
+		{
+			"Min_Sprechstunde": 24.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 48.0,
+			"Pseudonamen": "Frau Sch\u00f6ffer"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 28.0,
+			"Pseudonamen": "Herr Garten"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 26.0,
+			"Pseudonamen": "Herr Richmond"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 27.0,
+			"Pseudonamen": "Frau Weser"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 12.0,
+			"Min_Gesamtwartezeit": 14.0,
+			"Pseudonamen": "Frau Dietz"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 36.0,
+			"Min_Gesamtwartezeit": 39.0,
+			"Pseudonamen": "Herr Kornfeld"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 26.0,
+			"Pseudonamen": "Herr Beck"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 9.0,
+			"Min_Gesamtwartezeit": 10.0,
+			"Pseudonamen": "Herr Weege"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Frau Schmied"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 16.0,
+			"Min_Gesamtwartezeit": 18.0,
+			"Pseudonamen": "Frau Demirel"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 5.0,
+			"Pseudonamen": "Frau Zimmer"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 25.0,
+			"Pseudonamen": "Herr Bohlen"
+		},
+		{
+			"Min_Sprechstunde": 1.0,
+			"Min_Therapie": 1.0,
+			"Min_Gesamtwartezeit": 2.0,
+			"Pseudonamen": "Herr Weege"
+		},
+		{
+			"Min_Sprechstunde": 2.0,
+			"Min_Therapie": 32.0,
+			"Min_Gesamtwartezeit": 34.0,
+			"Pseudonamen": "Frau Borg"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 28.0,
+			"Min_Gesamtwartezeit": 32.0,
+			"Pseudonamen": "Herr Bleich"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 48.0,
+			"Min_Gesamtwartezeit": 52.0,
+			"Pseudonamen": "Herr Chiellini"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 7.0,
+			"Pseudonamen": "Frau Kant"
+		},
+		{
+			"Min_Sprechstunde": 5.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 29.0,
+			"Pseudonamen": "Frau Diefenbach"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 18.0,
+			"Min_Gesamtwartezeit": 22.0,
+			"Pseudonamen": "Herr Ziegler"
+		},
+		{
+			"Min_Sprechstunde": 4.0,
+			"Min_Therapie": 4.0,
+			"Min_Gesamtwartezeit": 8.0,
+			"Pseudonamen": "Frau Martinez"
+		},
+		{
+			"Min_Sprechstunde": 3.0,
+			"Min_Therapie": 24.0,
+			"Min_Gesamtwartezeit": 27.0,
+			"Pseudonamen": "Frau Albrecht"
+		},
+		{
+			"Min_Sprechstunde": 8.0,
+			"Min_Therapie": 6.0,
+			"Min_Gesamtwartezeit": 14.0,
+			"Pseudonamen": "Herr Richmond"
+		}
+	]
+}
